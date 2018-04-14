@@ -1,0 +1,23 @@
+{
+  "name": "robo-ango-mcdango",
+  "version": "1.0.0",
+  "description": "An Angus McDonald discord bot created by the TAZ-COMP-SCI discord group",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hifo/robo-ango-mcdango.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hifo/robo-ango-mcdango/issues"
+  },
+    "homepage": "https://github.com/hifo/robo-ango-mcdango#readme",
+    "dependencies":{
+	"discord.js": "^1.2.2"
+    }
+}
